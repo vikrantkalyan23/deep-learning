@@ -1,6 +1,6 @@
 # Deep Learning 
 
-A practical and beginner-friendly guide to learning **Deep Learning from scratch to advanced level**, with simple explanations, mathematical intuition, Python demos, and real-world projects.
+Deep Learning (DL) is a subset of Machine Learning (ML) where we use neural networks with multiple layers to learn patterns from data.
 
 ---
 
